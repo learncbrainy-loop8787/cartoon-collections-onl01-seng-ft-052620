@@ -33,7 +33,7 @@ i = 0
   end 
 end
 
-long_planeteer_calls(call_screams)
+long_planeteer_calls(array)
 
 
 
