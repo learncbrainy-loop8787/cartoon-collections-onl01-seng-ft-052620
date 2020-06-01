@@ -1,6 +1,6 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-find_the_cheese
+
 def roll_call_dwarves(array)
   i = 0
   while i < array.length 
@@ -23,6 +23,8 @@ def summon_captain_planet(array)
 end
 
 summon_captain_planet(planeteer_calls)
+
+def long_planeteer_calls
 
 def find_the_cheese(array)
   
