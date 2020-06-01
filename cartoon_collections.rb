@@ -11,9 +11,7 @@ end
 roll_call_dwarves(dwarves)
 
 
-def summon_captain_planet(planeteer_calls)
-  if ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
-    
+
   
 end
 
