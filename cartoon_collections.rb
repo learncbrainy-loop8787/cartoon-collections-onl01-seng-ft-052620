@@ -23,7 +23,7 @@ def summon_captain_planet(array)
   nu_array
 end
 
-def summon_captain_planet(planeteer_calls)
+def summon_captain_planet(array)
 i = 0 
   if  array.any? {|i| i.length > 4}
     return true
